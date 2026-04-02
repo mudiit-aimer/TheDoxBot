@@ -198,7 +198,7 @@ def clear_history():
 #  Run                                                                #
 # ------------------------------------------------------------------ #
 
-
+if __name__ == "__main__":
     print("=" * 50)
     print(" AI Document Chatbot - RAG Pipeline")
     print("=" * 50)
