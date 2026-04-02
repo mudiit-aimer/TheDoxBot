@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+uploads/
+vector_store_data/
+database/chat_history.db
+.venv/
+venv/
+*.egg-info/
+.DS_Store

@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+pypdf
+faiss-cpu
+sentence-transformers
+groq
+openai
+google-generativeai
